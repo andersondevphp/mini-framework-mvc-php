@@ -1,0 +1,18 @@
+{
+    "name": "inovaarte/mini-framework-mvc-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+            "app/functions/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Anderson M. de Carvalho",
+            "email": "57923996+andersondevphp@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
